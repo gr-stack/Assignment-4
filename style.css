@@ -1,0 +1,25 @@
+.main-container {
+    background-color: aqua;
+    box-shadow: 0px 15px 20px;
+    padding: 20px;
+    height: 280px;
+    width: 240px;
+    margin-left: 43%;
+    margin-top: 60px;
+}
+
+.main-container input {
+    text-align: center;
+    margin-top: 12px;
+    padding: 8px;
+    width: 220px;
+}
+
+.main-container button
+{  
+    width: 80px;
+    margin-top: 12px;
+    padding: 8px;
+    background: skyblue;
+    border: 3px solid black ;
+}
